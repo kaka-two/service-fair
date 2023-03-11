@@ -1,7 +1,7 @@
 
 Running time of experiment with edge server number from 4 to 8 with step 1  (ms). 
 /**The first line is the running time with 2 edge servers , and the second line is the running time with 3 edge servers, and so on. **/
-[ORA, SPR+, SPRG, Greedy, ORA-theoretical, OGA-theoretical]
+[ORA, SPR+, SPRG, OGA, ORA-theoretical, OGA-theoretical]
 
 [136.56, 124.2, 124.6, 2.86, 136.21, 2.86],
 [227.45, 200.6, 201.0, 3.65, 226.13, 3.65],
@@ -11,7 +11,7 @@ Running time of experiment with edge server number from 4 to 8 with step 1  (ms)
 
 Running time of experiment with UEs' number from 20 to 100 with step 20 (ms). 
 /**The first line is the running time with 20 UEs , and the second line is the running time with 40 URs, and so on. **/
-[ORA, SPR+, SPRG, Greedy, ORA-theoretical, OGA-theoretical]
+[ORA, SPR+, SPRG, OGA, ORA-theoretical, OGA-theoretical]
 
 [58.72, 45.91, 46.1, 1.74, 59.34, 1.8],
 [149.68, 127.09, 127.44, 4.31, 153.07, 4.45],
