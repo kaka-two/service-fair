@@ -1,15 +1,11 @@
-This repository contains the code for the paper "Resource and Fairness-Aware Digital Twin Service Caching and Request
-Routing with Edge Collaboration".
+This repository contains the code for the paper "Harbor: Harnessing Bandwidth and Computation Resources for Quality of Experience on Heterogeneous Edge-AI Devices".
 
 ## Dependencies
 The code is written in Python 3.7.
 
 ## Usage
 The algo.py file Is the core algorithm code of our paper. 
-
-## Results
-The running.png is a screenshot of our code while running, and loop is the time slot. We run 500 time slots each time.
-The running_time.txt is the running time of all algorithms in each experiments.
+The env.py is partial environmental variable data.
 
 
 ## License
